@@ -1,0 +1,42 @@
+html {
+    width: 1000px;
+    margin: auto;
+    scroll-behavior: smooth;
+    background-color: purple;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    background-color: white;
+    padding: 12px;
+}
+h1 {
+    padding: 12px;
+    background-color: plum;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+}
+.position-image {
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+nav ul li a {
+    display: block;
+    padding: 18px;
+    background-color: plum;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    border: 5px solid purple;
+    margin-bottom: 5px;
+
+}
