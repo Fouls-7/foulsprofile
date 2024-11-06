@@ -1,0 +1,26 @@
+html {
+    width: 1000px;
+    margin: auto;
+    scroll-behavior: smooth;
+    background-color: purple;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    background-color: white;
+    padding: 12px;
+}
+h1 {
+    padding: 12px;
+    background-color: plum;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    text-align: justify;
+}
+p img {
+    text-align: center;
+    
+}
